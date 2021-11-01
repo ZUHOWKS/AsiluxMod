@@ -2,14 +2,14 @@
 {
   "modid": "asilux",
   "name": "Asilux Mod: Better Armor",
-  "description": "Asilux mod add somes mineral, items and armor wich don't change the vanilla gameplay of Minecraft",
+  "description": "Asilux mod add some mineral, items and armor which don't change the vanilla gameplay of Minecraft.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
-  "logoFile": "",
+  "authorList": ["ZUHOWKS", "Astro"],
+  "credits": "Texture maker: Astro | Java Developer: ZUHOWKS | Project Developer: ZUHOWKS, Astro",
+  "logoFile": "asilux-icone.png",
   "screenshots": [],
   "dependencies": []
 }
